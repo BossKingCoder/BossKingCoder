@@ -8,6 +8,12 @@ I'm a Year 8 student at Wallington County Grammar School 🏫 with a growing int
 - Explore where Computer Science could take me — GCSE, A-Level 🎓, and possibly further
 - Keep building on GitHub as I learn, one commit at a time
 
+## 📫 How to Reach Me
+- 📧 Email: 25skshi@wcgschool.co.uk
+- Or feel free to open an issue on one of my repos here on GitHub
+
+### Feel free to check back — this profile will grow as I do.
+
 
 <!--
 **BossKingCoder/BossKingCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
