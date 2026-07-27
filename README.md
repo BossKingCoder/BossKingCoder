@@ -2,6 +2,12 @@
 ## About me 🧑‍💻:
 I'm a Year 8 student at Wallington County Grammar School 🏫 with a growing interest in Computer Science and coding 💻. I'm hoping to take it through GCSE and A-Level 🎓, and I'm even considering it as a career 💼. Right now, I'm using the GitHub Student Developer Pack to learn Python 🐍 and build a deeper understanding of how computers and code 💻 actually work ⚙️. My favourite quote is: “Code is read much more often than it is written.” – Guido Van Rossum, creator of Python.
 
+## Goals by the end of Year 8 🎯:
+- Build my first proper Python 🐍 project from scratch
+- Get comfortable with the basics: variables, loops, functions, and beyond
+- Explore where Computer Science could take me — GCSE, A-Level 🎓, and possibly further
+- Keep building on GitHub as I learn, one commit at a time
+
 
 <!--
 **BossKingCoder/BossKingCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
