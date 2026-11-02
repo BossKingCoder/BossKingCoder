@@ -11,6 +11,10 @@
 ## 🧑‍💻 About Me
 I'm a Year 8 student at Wallington County Grammar School 🏫 with a growing interest in Computer Science and coding 💻. I'm hoping to take it through GCSE and A-Level 🎓, and I'm even considering it as a career 💼. Right now, I'm using the GitHub Student Developer Pack to learn Python 🐍 and build a deeper understanding of how computers and code actually work ⚙️.
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,github,cloudflare,vscode&theme=dark" alt="My skills" />
+</p>
+
 > 💬 *"Code is read much more often than it is written."* — Guido van Rossum, creator of Python
 
 ## 🎯 Goals by the End of Year 8
