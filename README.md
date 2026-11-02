@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://shauryakshitij.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C5CE7&center=true&vCenter=true&random=true&width=435&lines=Learning+Python+%F0%9F%90%8D;Building+websites+%F0%9F%8C%90;Year+8+coder+%F0%9F%92%BB;Future+CS+student+%F0%9F%8E%93;Running+Shaurya%27s+Hub+%F0%9F%9A%80;Tinkering+with+Cloudflare+%E2%98%81;Squashing+bugs+%F0%9F%90%9B;Writing+my+blog+%E2%9C%8D;Always+learning+%F0%9F%A7%A0;One+commit+at+a+time+%E2%9A%99" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=true&width=435&lines=Learning+Python+%F0%9F%90%8D;Building+websites+%F0%9F%8C%90;Year+8+coder+%F0%9F%92%BB;Future+CS+student+%F0%9F%8E%93;Running+Shaurya%27s+Hub+%F0%9F%9A%80;Tinkering+with+Cloudflare+%E2%98%81;Squashing+bugs+%F0%9F%90%9B;Writing+my+blog+%E2%9C%8D;Always+learning+%F0%9F%A7%A0;One+commit+at+a+time+%E2%9A%99" alt="Typing intro" />
   </a>
 </p>
 
