@@ -8,6 +8,10 @@ I'm a Year 8 student at Wallington County Grammar School 🏫 with a growing int
 - Explore where Computer Science could take me — GCSE, A-Level 🎓, and possibly further
 - Keep building on GitHub as I learn, one commit at a time
 
+## 🌐 My Websites
+- **[shauryakshitij.com](https://shauryakshitij.com)**: My personal site, all about me and my blog
+- **[Shaurya's Hub](https://shauryashub.dev/visit?ref=github)**: My own web hub, a project I built and run myself
+
 ## 📫 How to Reach Me
 - 📧 Email: 25skshi@wcgschool.co.uk
 - Or feel free to open an issue on one of my repos here on GitHub
