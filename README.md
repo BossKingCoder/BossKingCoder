@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Shaurya 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:1F6FEB&height=180&section=header&text=Hi%20there,%20I%27m%20Shaurya%20%F0%9F%91%8B&fontColor=ffffff&fontSize=40&fontAlignY=35&animation=fadeIn" width="100%" alt="Hi there, I'm Shaurya" />
 
 <p align="center">
   <a href="https://shauryakshitij.com">
@@ -42,3 +42,5 @@ I'm a Year 8 student at Wallington County Grammar School 🏫 with a growing int
     <img src="blog-button.svg" alt="Read my blog" width="300" />
   </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:58A6FF&height=120&section=footer" width="100%" alt="Footer wave" />
