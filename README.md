@@ -18,6 +18,12 @@ I'm a Year 8 student at Wallington County Grammar School 🏫 with a growing int
 
 ### Feel free to check back — this profile will grow as I do.
 
+<p align="center">
+  <a href="https://shauryakshitij.com/blog">
+    <img src="blog-button.svg" alt="Read my blog" width="300" />
+  </a>
+</p>
+
 
 <!--
 **BossKingCoder/BossKingCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
