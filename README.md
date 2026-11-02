@@ -1,4 +1,6 @@
-<h1 align="center">Hi there, I'm Shaurya 👋</h1>
+<p align="center">
+  <img src="terminal-header.svg" alt="Hi there, I'm Shaurya 👋" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://shauryakshitij.com">
