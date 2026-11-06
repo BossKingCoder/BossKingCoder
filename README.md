@@ -44,3 +44,7 @@ I'm a Year 8 student at Wallington County Grammar School 🏫 with a growing int
     <img src="blog-button.svg" alt="Read my blog" width="300" />
   </a>
 </p>
+
+<p align="center">
+  <img src="terminal-footer.svg" alt="Thanks for visiting!" width="100%" />
+</p>
